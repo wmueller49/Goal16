@@ -1,0 +1,41 @@
+.container{
+	width: 320px;
+	height: 320px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+h1{
+	text-align: center;
+	font-size: 3em;
+}
+
+.row{
+	height: 100px;
+}
+
+.col {
+	height: 100px;
+	width: 100px;
+	float: left;
+	font-size: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+
+.col:hover{
+	background-color: lightgray;
+	cursor: pointer;
+}
+
+.border-b{
+	border-bottom: 10px solid black;
+}
+
+.border-r{
+	border-right: 10px solid black;
+}
+
+.border-b{
+	border-bottom: 10px solid black;
+}
